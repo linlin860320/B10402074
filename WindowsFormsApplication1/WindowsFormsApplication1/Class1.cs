@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1
 
         public int GetNumber2()
         {
-            return 0;
+            return 5;
         }
     }
 }
